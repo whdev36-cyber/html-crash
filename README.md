@@ -10,9 +10,9 @@ A simple beginner-friendly **HTML-only project** that displays cat photos, lists
 - External and internal links demonstration  
 - Clean and semantic HTML structure  
 
-## 🌐 Live Preview
+## 🌐 Demo
 
-You can clone or download the repo and open `index.html` in your browser. No dependencies, no build steps — just plain HTML!
+👉 [Live Demo on Netlify](https://eclectic-salamander-7777f7.netlify.app/)
 
 ## 💾 Repository
 
